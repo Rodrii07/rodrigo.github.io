@@ -314,7 +314,9 @@ body {
   margin-top: 20px;
   font-weight: 500;
 }
-
+.details2 a {
+  color: #fff;
+}
 .container5 {
   width: 80%;
   padding: 20px;
